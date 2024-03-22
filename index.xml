@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home | Fast &amp; Free Link In Bio Website (Hugo Theme)</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://9dchen.github.io/</link>
+      <atom:link href="https://9dchen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://9dchen.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Home</title>
-      <link>https://example.com/</link>
+      <link>https://9dchen.github.io/</link>
     </image>
     
     <item>
       <title>Terms and Privacy Policy</title>
-      <link>https://example.com/post/terms/</link>
+      <link>https://9dchen.github.io/post/terms/</link>
       <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/terms/</guid>
+      <guid>https://9dchen.github.io/post/terms/</guid>
       <description>&lt;p&gt;{% include base_path %}
 {% include toc %}&lt;/p&gt;
 &lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h2&gt;
@@ -44,9 +44,9 @@
     
     <item>
       <title>Archive Layout with Content</title>
-      <link>https://example.com/post/archive-layout-with-content/</link>
+      <link>https://9dchen.github.io/post/archive-layout-with-content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/archive-layout-with-content/</guid>
+      <guid>https://9dchen.github.io/post/archive-layout-with-content/</guid>
       <description>&lt;p&gt;A variety of common markup showing how the theme styles them.&lt;/p&gt;
 &lt;h1 id=&#34;header-one&#34;&gt;Header one&lt;/h1&gt;
 &lt;h2 id=&#34;header-two&#34;&gt;Header two&lt;/h2&gt;
@@ -242,9 +242,9 @@
     
     <item>
       <title>CV</title>
-      <link>https://example.com/post/cv/</link>
+      <link>https://9dchen.github.io/post/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/cv/</guid>
+      <guid>https://9dchen.github.io/post/cv/</guid>
       <description>&lt;p&gt;{% include base_path %}&lt;/p&gt;
 &lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 &lt;ul&gt;
@@ -312,9 +312,9 @@
     
     <item>
       <title>Markdown</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>https://9dchen.github.io/post/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>https://9dchen.github.io/post/markdown/</guid>
       <description>&lt;h2 id=&#34;locations-of-key-filesdirectories&#34;&gt;Locations of key files/directories&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Basic config options: _config.yml&lt;/li&gt;
@@ -587,9 +587,9 @@ $$
     
     <item>
       <title>Page Not Found</title>
-      <link>https://example.com/post/404/</link>
+      <link>https://9dchen.github.io/post/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/404/</guid>
+      <guid>https://9dchen.github.io/post/404/</guid>
       <description>&lt;p&gt;Sorry, but the page you were trying to view does not exist.&lt;/p&gt;
 &lt;p&gt;IF you have any questions or contact me, please send emails to &lt;a href=&#34;mailto:chenjd999@163.com&#34;&gt;chenjd999@163.com&lt;/a&gt;, you can also add my WeChat which is nine99ddd.&lt;/p&gt;
 &lt;p&gt;See you!~&lt;/p&gt;
@@ -598,9 +598,9 @@ $$
     
     <item>
       <title>Page not in menu</title>
-      <link>https://example.com/post/non-menu-page/</link>
+      <link>https://9dchen.github.io/post/non-menu-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/non-menu-page/</guid>
+      <guid>https://9dchen.github.io/post/non-menu-page/</guid>
       <description>&lt;p&gt;This is a page not in the menu. You can use markdown in this page.&lt;/p&gt;
 &lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
 &lt;h1 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h1&gt;
@@ -609,9 +609,9 @@ $$
     
     <item>
       <title>Publications</title>
-      <link>https://example.com/post/publications/</link>
+      <link>https://9dchen.github.io/post/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/publications/</guid>
+      <guid>https://9dchen.github.io/post/publications/</guid>
       <description>&lt;p&gt;{{ if site.author.googlescholar }}&lt;/p&gt;
   &lt;div class=&#34;wordwrap&#34;&gt;You can also find my articles on &lt;a href=&#34;{{site.author.googlescholar}}&#34;&gt;my Google Scholar profile&lt;/a&gt;.&lt;/div&gt;
 {{ endif }}
@@ -624,9 +624,9 @@ $$
     
     <item>
       <title>Sitemap</title>
-      <link>https://example.com/post/sitemap/</link>
+      <link>https://9dchen.github.io/post/sitemap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/sitemap/</guid>
+      <guid>https://9dchen.github.io/post/sitemap/</guid>
       <description>&lt;p&gt;{% include base_path %}&lt;/p&gt;
 &lt;p&gt;A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.&lt;/p&gt;
 &lt;h2&gt;Pages&lt;/h2&gt;
@@ -657,9 +657,9 @@ $$
     
     <item>
       <title>Test Selected Honors</title>
-      <link>https://example.com/post/honors/</link>
+      <link>https://9dchen.github.io/post/honors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/honors/</guid>
+      <guid>https://9dchen.github.io/post/honors/</guid>
       <description>&lt;p&gt;{% include base_path %}&lt;/p&gt;
 &lt;p&gt;{% for post in site.Honors %}
 {% include archive-single.html %}
@@ -679,9 +679,9 @@ $$
     
     <item>
       <title>Welcome to Jiuding Chen&#39;s Channel!</title>
-      <link>https://example.com/post/about/</link>
+      <link>https://9dchen.github.io/post/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/about/</guid>
+      <guid>https://9dchen.github.io/post/about/</guid>
       <description>&lt;p&gt;Chen Jiuding, from Hunan ChenZhou city, a probationary member of the Communist Party of China, is a junior undergraduate majoring in Information Management and Information Systems (Experimental Class for Outstanding Talents in Data Science and Business Analysis) at the Business School of Central South University. He serves as the vice monitor and is a student of Chen Xiaohong, academician and secretary of the Party Committee of Hunan Gongshang University and honorary dean of the Business School of Central South University. He is committed to statistical analysis, machine learning, econometrics and other fields. His weighted average score is 92.5, professional ranking: 3/30, and his comprehensive test score of 96.02 in the 2022-2023 academic year (sophomore year) ranks first in his major.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;陈九鼎&lt;/strong&gt;，湖南郴州人，中共预备党员，中南大学商学院信息管理与信息系统专业（数据科学与商业分析卓越人才培养实验班）在读大三本科生。担任副班长，师从湖南工商大学党委书记、中南大学商学院名誉院长陈晓红院士，致力于统计分析、机器学习、计量经济等领域。加权均分：&lt;strong&gt;92.5/100&lt;/strong&gt;，专业排名：&lt;strong&gt;3/30&lt;/strong&gt;，2022-2023学年（大二学年）综测&lt;strong&gt;96.02&lt;/strong&gt;分，位列&lt;strong&gt;专业第一&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;：chenjd999@163.com&lt;/p&gt;

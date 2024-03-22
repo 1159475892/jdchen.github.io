@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://9dchen.github.io/post/</loc>
     <lastmod>2024-03-22T20:57:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://9dchen.github.io/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/terms/</loc>
+    <loc>https://9dchen.github.io/post/terms/</loc>
     <lastmod>2016-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/archive-layout-with-content/</loc>
+    <loc>https://9dchen.github.io/post/archive-layout-with-content/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/cv/</loc>
+    <loc>https://9dchen.github.io/post/cv/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/markdown/</loc>
+    <loc>https://9dchen.github.io/post/markdown/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/404/</loc>
+    <loc>https://9dchen.github.io/post/404/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/non-menu-page/</loc>
+    <loc>https://9dchen.github.io/post/non-menu-page/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/publications/</loc>
+    <loc>https://9dchen.github.io/post/publications/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/sitemap/</loc>
+    <loc>https://9dchen.github.io/post/sitemap/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/honors/</loc>
+    <loc>https://9dchen.github.io/post/honors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/about/</loc>
+    <loc>https://9dchen.github.io/post/about/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
