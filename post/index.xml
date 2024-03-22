@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Fast &amp; Free Link In Bio Website (Hugo Theme)</title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Mar 2024 20:57:48 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Terms and Privacy Policy</title>
+      <link>https://example.com/post/terms/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/terms/</guid>
+      <description>&lt;p&gt;{% include base_path %}
+{% include toc %}&lt;/p&gt;
+&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h2&gt;
+&lt;p&gt;The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.&lt;/p&gt;
+&lt;p&gt;First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.&lt;/p&gt;
+&lt;h3 id=&#34;log-files&#34;&gt;Log Files&lt;/h3&gt;
+&lt;p&gt;Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Internet Protocol addresses (IP)&lt;/li&gt;
+&lt;li&gt;Types of browser&lt;/li&gt;
+&lt;li&gt;Internet Service Provider (ISP)&lt;/li&gt;
+&lt;li&gt;Date and time stamp&lt;/li&gt;
+&lt;li&gt;Referring and exit pages&lt;/li&gt;
+&lt;li&gt;Number of clicks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All of this information is not linked to anything that is personally identifiable.&lt;/p&gt;
+&lt;h3 id=&#34;cookies-and-web-beacons&#34;&gt;Cookies and Web Beacons&lt;/h3&gt;
+&lt;p&gt;When you visit this site &amp;ldquo;convenience&amp;rdquo; cookies are stored on your computer when you submit a comment to help you log in faster to &lt;a href=&#34;http://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus&lt;/a&gt; the next time you leave a comment.&lt;/p&gt;
+&lt;p&gt;Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.&lt;/p&gt;
+&lt;p&gt;If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers&amp;rsquo; websites.&lt;/p&gt;
+&lt;h4 id=&#34;google-analytics&#34;&gt;Google Analytics&lt;/h4&gt;
+&lt;p&gt;Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read &lt;a href=&#34;http://www.google.com/analytics/learn/privacy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics Privacy Policy&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Archive Layout with Content</title>
+      <link>https://example.com/post/archive-layout-with-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/archive-layout-with-content/</guid>
+      <description>&lt;p&gt;A variety of common markup showing how the theme styles them.&lt;/p&gt;
+&lt;h1 id=&#34;header-one&#34;&gt;Header one&lt;/h1&gt;
+&lt;h2 id=&#34;header-two&#34;&gt;Header two&lt;/h2&gt;
+&lt;h3 id=&#34;header-three&#34;&gt;Header three&lt;/h3&gt;
+&lt;h4 id=&#34;header-four&#34;&gt;Header four&lt;/h4&gt;
+&lt;h5 id=&#34;header-five&#34;&gt;Header five&lt;/h5&gt;
+&lt;h6 id=&#34;header-six&#34;&gt;Header six&lt;/h6&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;
+&lt;p&gt;Single line blockquote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quotes are cool.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Entry&lt;/th&gt;
+&lt;th&gt;Item&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;John Doe&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016&lt;/td&gt;
+&lt;td&gt;Description of the item in the list&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Jane Doe&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2019&lt;/td&gt;
+&lt;td&gt;Description of the item in the list&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Doe Doe&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2022&lt;/td&gt;
+&lt;td&gt;Description of the item in the list&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Header1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Header2&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Header3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;cell1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;cell2&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;cell3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;cell4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;cell5&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;cell6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;cell1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;cell2&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;cell3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;cell4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;cell5&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;cell6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;=============================&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Foot1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Foot2&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Foot3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;definition-lists&#34;&gt;Definition Lists&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Definition List Title&lt;/dt&gt;
+&lt;dd&gt;Definition list division.&lt;/dd&gt;
+&lt;dt&gt;Startup&lt;/dt&gt;
+&lt;dd&gt;A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.&lt;/dd&gt;
+&lt;dt&gt;#dowork&lt;/dt&gt;
+&lt;dd&gt;Coined by Rob Dyrdek and his personal body guard Christopher &amp;ldquo;Big Black&amp;rdquo; Boykins, &amp;ldquo;Do Work&amp;rdquo; works as a self motivator, to motivating your friends.&lt;/dd&gt;
+&lt;dt&gt;Do It Live&lt;/dt&gt;
+&lt;dd&gt;I&amp;rsquo;ll let Bill O&amp;rsquo;Reilly &lt;a href=&#34;https://www.youtube.com/watch?v=O_HyZ5aW76c&#34; title=&#34;We&amp;#39;ll Do It Live&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explain&lt;/a&gt; this one.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;unordered-lists-nested&#34;&gt;Unordered Lists (Nested)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;List item one
+&lt;ul&gt;
+&lt;li&gt;List item one
+&lt;ul&gt;
+&lt;li&gt;List item one&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ordered-list-nested&#34;&gt;Ordered List (Nested)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;List item one
+&lt;ol&gt;
+&lt;li&gt;List item one
+&lt;ol&gt;
+&lt;li&gt;List item one&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;buttons&#34;&gt;Buttons&lt;/h2&gt;
+&lt;p&gt;Make any link standout more when applying the &lt;code&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
+&lt;h2 id=&#34;notices&#34;&gt;Notices&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code&gt;{: .notice}&lt;/code&gt; to a paragraph.
+{: .notice}&lt;/p&gt;
+&lt;h2 id=&#34;html-tags&#34;&gt;HTML Tags&lt;/h2&gt;
+&lt;h3 id=&#34;address-tag&#34;&gt;Address Tag&lt;/h3&gt;
+&lt;address&gt;
+  1 Infinite Loop&lt;br /&gt; Cupertino, CA 95014&lt;br /&gt; United States
+&lt;/address&gt;
+&lt;h3 id=&#34;anchor-tag-aka-link&#34;&gt;Anchor Tag (aka. Link)&lt;/h3&gt;
+&lt;p&gt;This is an example of a &lt;a href=&#34;http://github.com&#34; title=&#34;Github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;abbreviation-tag&#34;&gt;Abbreviation Tag&lt;/h3&gt;
+&lt;p&gt;The abbreviation CSS stands for &amp;ldquo;Cascading Style Sheets&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;*[CSS]: Cascading Style Sheets&lt;/p&gt;
+&lt;h3 id=&#34;cite-tag&#34;&gt;Cite Tag&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Code is poetry.&amp;rdquo; &amp;mdash;&lt;cite&gt;Automattic&lt;/cite&gt;&lt;/p&gt;
+&lt;h3 id=&#34;code-tag&#34;&gt;Code Tag&lt;/h3&gt;
+&lt;p&gt;You will learn later on in these tests that &lt;code&gt;word-wrap: break-word;&lt;/code&gt; will be your best friend.&lt;/p&gt;
+&lt;h3 id=&#34;strike-tag&#34;&gt;Strike Tag&lt;/h3&gt;
+&lt;p&gt;This tag will let you &lt;strike&gt;strikeout text&lt;/strike&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;emphasize-tag&#34;&gt;Emphasize Tag&lt;/h3&gt;
+&lt;p&gt;The emphasize tag should &lt;em&gt;italicize&lt;/em&gt; text.&lt;/p&gt;
+&lt;h3 id=&#34;insert-tag&#34;&gt;Insert Tag&lt;/h3&gt;
+&lt;p&gt;This tag should denote &lt;ins&gt;inserted&lt;/ins&gt; text.&lt;/p&gt;
+&lt;h3 id=&#34;keyboard-tag&#34;&gt;Keyboard Tag&lt;/h3&gt;
+&lt;p&gt;This scarcely known tag emulates &lt;kbd&gt;keyboard text&lt;/kbd&gt;, which is usually styled like the &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; tag.&lt;/p&gt;
+&lt;h3 id=&#34;preformatted-tag&#34;&gt;Preformatted Tag&lt;/h3&gt;
+&lt;p&gt;This tag styles large blocks of code.&lt;/p&gt;
+&lt;pre&gt;
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here&#39;s a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+&lt;/pre&gt;
+&lt;h3 id=&#34;quote-tag&#34;&gt;Quote Tag&lt;/h3&gt;
+&lt;p&gt;&lt;q&gt;Developers, developers, developers…&lt;/q&gt; –Steve Ballmer&lt;/p&gt;
+&lt;h3 id=&#34;strong-tag&#34;&gt;Strong Tag&lt;/h3&gt;
+&lt;p&gt;This tag shows &lt;strong&gt;bold text&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;subscript-tag&#34;&gt;Subscript Tag&lt;/h3&gt;
+&lt;p&gt;Getting our science styling on with H&lt;sub&gt;2&lt;/sub&gt;O, which should push the &amp;ldquo;2&amp;rdquo; down.&lt;/p&gt;
+&lt;h3 id=&#34;superscript-tag&#34;&gt;Superscript Tag&lt;/h3&gt;
+&lt;p&gt;Still sticking with science and Isaac Newton&amp;rsquo;s E = MC&lt;sup&gt;2&lt;/sup&gt;, which should lift the 2 up.&lt;/p&gt;
+&lt;h3 id=&#34;variable-tag&#34;&gt;Variable Tag&lt;/h3&gt;
+&lt;p&gt;This allows you to denote &lt;var&gt;variables&lt;/var&gt;.&lt;/p&gt;
+&lt;p&gt;{% include base_path %}
+{% for post in site.pages %}
+{% include archive-single.html %}
+{% endfor %}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://example.com/post/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/cv/</guid>
+      <description>&lt;p&gt;{% include base_path %}&lt;/p&gt;
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D in Version Control Theory, GitHub University, 2018 (expected)&lt;/li&gt;
+&lt;li&gt;M.S. in Jekyll, GitHub University, 2014&lt;/li&gt;
+&lt;li&gt;B.S. in GitHub, GitHub University, 2012&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;work-experience&#34;&gt;Work experience&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Spring 2024: Academic Pages Collaborator&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github University&lt;/li&gt;
+&lt;li&gt;Duties includes: Updates and improvements to template&lt;/li&gt;
+&lt;li&gt;Supervisor: The Users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fall 2015: Research Assistant&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github University&lt;/li&gt;
+&lt;li&gt;Duties included: Merging pull requests&lt;/li&gt;
+&lt;li&gt;Supervisor: Professor Hub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Summer 2015: Research Assistant&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github University&lt;/li&gt;
+&lt;li&gt;Duties included: Tagging issues&lt;/li&gt;
+&lt;li&gt;Supervisor: Professor Git&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Skill 1&lt;/li&gt;
+&lt;li&gt;Skill 2
+&lt;ul&gt;
+&lt;li&gt;Sub-skill 2.1&lt;/li&gt;
+&lt;li&gt;Sub-skill 2.2&lt;/li&gt;
+&lt;li&gt;Sub-skill 2.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Skill 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+  &lt;ul&gt;{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}&lt;/ul&gt;
+&lt;h1 id=&#34;talks&#34;&gt;Talks&lt;/h1&gt;
+  &lt;ul&gt;{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}&lt;/ul&gt;
+&lt;h1 id=&#34;teaching&#34;&gt;Teaching&lt;/h1&gt;
+  &lt;ul&gt;{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}&lt;/ul&gt;
+&lt;h1 id=&#34;service-and-leadership&#34;&gt;Service and leadership&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Currently signed in to 43 different slack teams&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;locations-of-key-filesdirectories&#34;&gt;Locations of key files/directories&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic config options: _config.yml&lt;/li&gt;
+&lt;li&gt;Top navigation bar config: _data/navigation.yml&lt;/li&gt;
+&lt;li&gt;Single pages: _pages/&lt;/li&gt;
+&lt;li&gt;Collections of pages are .md or .html files in:
+&lt;ul&gt;
+&lt;li&gt;_publications/&lt;/li&gt;
+&lt;li&gt;_portfolio/&lt;/li&gt;
+&lt;li&gt;_posts/&lt;/li&gt;
+&lt;li&gt;_teaching/&lt;/li&gt;
+&lt;li&gt;_talks/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Footer: _includes/footer.html&lt;/li&gt;
+&lt;li&gt;Static files (like PDFs): /files/&lt;/li&gt;
+&lt;li&gt;Profile image (can set in _config.yml): images/profile.png&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tips-and-hints&#34;&gt;Tips and hints&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Name a file &amp;ldquo;.md&amp;rdquo; to have it render in markdown, name it &amp;ldquo;.html&amp;rdquo; to render in HTML.&lt;/li&gt;
+&lt;li&gt;Go to the &lt;a href=&#34;https://github.com/academicpages/academicpages.github.io/commits/master&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;commit list&lt;/a&gt; (on your repo) to find the last version Github built with Jekyll.
+&lt;ul&gt;
+&lt;li&gt;Green check: successful build&lt;/li&gt;
+&lt;li&gt;Orange circle: building&lt;/li&gt;
+&lt;li&gt;Red X: error&lt;/li&gt;
+&lt;li&gt;No icon: not built&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shopify.github.io/liquid/tags/control-flow/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Liquid syntax guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.mathjax.org/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MathJax Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mathjax&#34;&gt;MathJax&lt;/h2&gt;
+&lt;p&gt;Support for MathJax Version 3.0 is included in the template:&lt;/p&gt;
+$$
+\displaylines{
+\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
+\nabla \cdot B=0 \\\
+\nabla \times E= -\partial_tB \\\
+\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
+}
+$$
+&lt;p&gt;The default delimiters of &lt;code&gt;$$...$$&lt;/code&gt; and &lt;code&gt;\\[...\\]&lt;/code&gt; are supported for displayed mathematics, while &lt;code&gt;\\(...\\)&lt;/code&gt; should be used for in-line mathematics (ex., \(a^2 + b^2 = c^2\))&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although &lt;a href=&#34;https://math.codidact.com/posts/278763/278772#answer-278772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;some workarounds exist&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-guide&#34;&gt;Markdown guide&lt;/h2&gt;
+&lt;p&gt;Academic Pages uses &lt;a href=&#34;https://kramdown.gettalong.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kramdown&lt;/a&gt; for Markdown rendering, which has some differences from other Markdown implementations such as GitHub&amp;rsquo;s. In addition to this guide, please see the &lt;a href=&#34;https://kramdown.gettalong.org/syntax.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kramdown Syntax page&lt;/a&gt; for full documentation.&lt;/p&gt;
+&lt;h3 id=&#34;header-three&#34;&gt;Header three&lt;/h3&gt;
+&lt;h4 id=&#34;header-four&#34;&gt;Header four&lt;/h4&gt;
+&lt;h5 id=&#34;header-five&#34;&gt;Header five&lt;/h5&gt;
+&lt;h6 id=&#34;header-six&#34;&gt;Header six&lt;/h6&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;
+&lt;p&gt;Single line blockquote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quotes are cool.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
+&lt;h3 id=&#34;table-1&#34;&gt;Table 1&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Entry&lt;/th&gt;
+&lt;th&gt;Item&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;John Doe&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016&lt;/td&gt;
+&lt;td&gt;Description of the item in the list&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Jane Doe&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2019&lt;/td&gt;
+&lt;td&gt;Description of the item in the list&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Doe Doe&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2022&lt;/td&gt;
+&lt;td&gt;Description of the item in the list&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;table-2&#34;&gt;Table 2&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Header1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Header2&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Header3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;cell1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;cell2&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;cell3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;cell4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ce&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ll5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;cell6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;cell1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;cell2&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;cell3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;cell4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;cell5&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;cell6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;=============================&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Foot1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Foot2&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Foot3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;definition-lists&#34;&gt;Definition Lists&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Definition List Title&lt;/dt&gt;
+&lt;dd&gt;Definition list division.&lt;/dd&gt;
+&lt;dt&gt;Startup&lt;/dt&gt;
+&lt;dd&gt;A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.&lt;/dd&gt;
+&lt;dt&gt;#dowork&lt;/dt&gt;
+&lt;dd&gt;Coined by Rob Dyrdek and his personal body guard Christopher &amp;ldquo;Big Black&amp;rdquo; Boykins, &amp;ldquo;Do Work&amp;rdquo; works as a self motivator, to motivating your friends.&lt;/dd&gt;
+&lt;dt&gt;Do It Live&lt;/dt&gt;
+&lt;dd&gt;I&amp;rsquo;ll let Bill O&amp;rsquo;Reilly &lt;a href=&#34;https://www.youtube.com/watch?v=O_HyZ5aW76c&#34; title=&#34;We&amp;#39;ll Do It Live&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explain&lt;/a&gt; this one.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;unordered-lists-nested&#34;&gt;Unordered Lists (Nested)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;List item one
+&lt;ul&gt;
+&lt;li&gt;List item one
+&lt;ul&gt;
+&lt;li&gt;List item one&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ordered-list-nested&#34;&gt;Ordered List (Nested)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;List item one
+&lt;ol&gt;
+&lt;li&gt;List item one
+&lt;ol&gt;
+&lt;li&gt;List item one&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;List item two&lt;/li&gt;
+&lt;li&gt;List item three&lt;/li&gt;
+&lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;buttons&#34;&gt;Buttons&lt;/h2&gt;
+&lt;p&gt;Make any link standout more when applying the &lt;code&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
+&lt;h2 id=&#34;notices&#34;&gt;Notices&lt;/h2&gt;
+&lt;p&gt;Basic notices or call-outs are supported using the following syntax:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Watch out!** You can also add notices by appending &lt;span class=&#34;sb&#34;&gt;`{: .notice}`&lt;/span&gt; to the line following paragraph.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{: .notice}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;which wil render as:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code&gt;{: .notice}&lt;/code&gt; to the line following paragraph.
+{: .notice}&lt;/p&gt;
+&lt;h3 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h3&gt;
+&lt;p&gt;Footnotes can be useful for clarifying points in the text, or citing information.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Markdown support numeric footnotes, as well as text as long as the values are unique.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This is the regular text.[^1] This is more regular text.[^note]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[^1]: This is the footnote itself.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[^note]: This is another footnote.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;html-tags&#34;&gt;HTML Tags&lt;/h2&gt;
+&lt;h3 id=&#34;address-tag&#34;&gt;Address Tag&lt;/h3&gt;
+&lt;address&gt;
+  1 Infinite Loop&lt;br /&gt; Cupertino, CA 95014&lt;br /&gt; United States
+&lt;/address&gt;
+&lt;h3 id=&#34;anchor-tag-aka-link&#34;&gt;Anchor Tag (aka. Link)&lt;/h3&gt;
+&lt;p&gt;This is an example of a &lt;a href=&#34;http://github.com&#34; title=&#34;Github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;abbreviation-tag&#34;&gt;Abbreviation Tag&lt;/h3&gt;
+&lt;p&gt;The abbreviation CSS stands for &amp;ldquo;Cascading Style Sheets&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;*[CSS]: Cascading Style Sheets&lt;/p&gt;
+&lt;h3 id=&#34;cite-tag&#34;&gt;Cite Tag&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Code is poetry.&amp;rdquo; &amp;mdash;&lt;cite&gt;Automattic&lt;/cite&gt;&lt;/p&gt;
+&lt;h3 id=&#34;code-tag&#34;&gt;Code Tag&lt;/h3&gt;
+&lt;p&gt;You will learn later on in these tests that &lt;code&gt;word-wrap: break-word;&lt;/code&gt; will be your best friend.&lt;/p&gt;
+&lt;p&gt;You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Hello World!&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;or R:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;quote&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;strike-tag&#34;&gt;Strike Tag&lt;/h3&gt;
+&lt;p&gt;This tag will let you &lt;strike&gt;strikeout text&lt;/strike&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;emphasize-tag&#34;&gt;Emphasize Tag&lt;/h3&gt;
+&lt;p&gt;The emphasize tag should &lt;em&gt;italicize&lt;/em&gt; text.&lt;/p&gt;
+&lt;h3 id=&#34;insert-tag&#34;&gt;Insert Tag&lt;/h3&gt;
+&lt;p&gt;This tag should denote &lt;ins&gt;inserted&lt;/ins&gt; text.&lt;/p&gt;
+&lt;h3 id=&#34;keyboard-tag&#34;&gt;Keyboard Tag&lt;/h3&gt;
+&lt;p&gt;This scarcely known tag emulates &lt;kbd&gt;keyboard text&lt;/kbd&gt;, which is usually styled like the &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; tag.&lt;/p&gt;
+&lt;h3 id=&#34;preformatted-tag&#34;&gt;Preformatted Tag&lt;/h3&gt;
+&lt;p&gt;This tag styles large blocks of code.&lt;/p&gt;
+&lt;pre&gt;
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here&#39;s a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+&lt;/pre&gt;
+&lt;h3 id=&#34;quote-tag&#34;&gt;Quote Tag&lt;/h3&gt;
+&lt;p&gt;&lt;q&gt;Developers, developers, developers…&lt;/q&gt; –Steve Ballmer&lt;/p&gt;
+&lt;h3 id=&#34;strong-tag&#34;&gt;Strong Tag&lt;/h3&gt;
+&lt;p&gt;This tag shows &lt;strong&gt;bold text&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;subscript-tag&#34;&gt;Subscript Tag&lt;/h3&gt;
+&lt;p&gt;Getting our science styling on with H&lt;sub&gt;2&lt;/sub&gt;O, which should push the &amp;ldquo;2&amp;rdquo; down.&lt;/p&gt;
+&lt;h3 id=&#34;superscript-tag&#34;&gt;Superscript Tag&lt;/h3&gt;
+&lt;p&gt;Still sticking with science and Isaac Newton&amp;rsquo;s E = MC&lt;sup&gt;2&lt;/sup&gt;, which should lift the 2 up.&lt;/p&gt;
+&lt;h3 id=&#34;variable-tag&#34;&gt;Variable Tag&lt;/h3&gt;
+&lt;p&gt;This allows you to denote &lt;var&gt;variables&lt;/var&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Footnotes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The footnotes in the page will be returned following this line, return to the section on &lt;a href=&#34;#footnotes&#34;&gt;Markdown Footnotes&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Such as this footnote.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;When using text for footnotes markers, no spaces are permitted in the name.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Page Not Found</title>
+      <link>https://example.com/post/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/404/</guid>
+      <description>&lt;p&gt;Sorry, but the page you were trying to view does not exist.&lt;/p&gt;
+&lt;p&gt;IF you have any questions or contact me, please send emails to &lt;a href=&#34;mailto:chenjd999@163.com&#34;&gt;chenjd999@163.com&lt;/a&gt;, you can also add my WeChat which is nine99ddd.&lt;/p&gt;
+&lt;p&gt;See you!~&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Page not in menu</title>
+      <link>https://example.com/post/non-menu-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/non-menu-page/</guid>
+      <description>&lt;p&gt;This is a page not in the menu. You can use markdown in this page.&lt;/p&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;h1 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/post/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/publications/</guid>
+      <description>&lt;p&gt;{{ if site.author.googlescholar }}&lt;/p&gt;
+  &lt;div class=&#34;wordwrap&#34;&gt;You can also find my articles on &lt;a href=&#34;{{site.author.googlescholar}}&#34;&gt;my Google Scholar profile&lt;/a&gt;.&lt;/div&gt;
+{{ endif }}
+&lt;p&gt;{% include base_path %}&lt;/p&gt;
+&lt;p&gt;{% for post in site.publications reversed %}
+{% include archive-single.html %}
+{% endfor %}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sitemap</title>
+      <link>https://example.com/post/sitemap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/sitemap/</guid>
+      <description>&lt;p&gt;{% include base_path %}&lt;/p&gt;
+&lt;p&gt;A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.&lt;/p&gt;
+&lt;h2&gt;Pages&lt;/h2&gt;
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
+&lt;h2&gt;Posts&lt;/h2&gt;
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+&lt;p&gt;{% capture written_label %}&amp;lsquo;None&amp;rsquo;{% endcapture %}&lt;/p&gt;
+&lt;p&gt;{% for collection in site.collections %}
+{% unless collection.output == false or collection.label == &amp;ldquo;posts&amp;rdquo; %}
+{% capture label %}{{ collection.label }}{% endcapture %}
+{% if label != written_label %}&lt;/p&gt;
+  &lt;h2&gt;{{ label }}&lt;/h2&gt;
+  {% capture written_label %}{{ label }}{% endcapture %}
+  {% endif %}
+{% endunless %}
+{% for post in collection.docs %}
+  {% unless collection.output == false or collection.label == &#34;posts&#34; %}
+  {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+{% endfor %}
+</description>
+    </item>
+    
+    <item>
+      <title>Test Selected Honors</title>
+      <link>https://example.com/post/honors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/honors/</guid>
+      <description>&lt;p&gt;{% include base_path %}&lt;/p&gt;
+&lt;p&gt;{% for post in site.Honors %}
+{% include archive-single.html %}
+{% endfor %}&lt;/p&gt;
+&lt;h2 id=&#34;look-some-honors&#34;&gt;Look some Honors！😋&lt;/h2&gt;
+&lt;p&gt;1.全国大学生数学建模竞赛湖南赛区一等奖&lt;/p&gt;
+&lt;p&gt;2.APMCM亚太地区大学生数学建模竞赛国家一等奖&lt;/p&gt;
+&lt;p&gt;3.美国大学生数学建模大赛H奖&lt;/p&gt;
+&lt;p&gt;4.全国大学生商务谈判大赛国家二等奖&lt;/p&gt;
+&lt;p&gt;5.全国大学生商务谈判大赛最佳谈判手&lt;/p&gt;
+&lt;p&gt;6.全国大学生数学竞赛湖南赛区三等奖&lt;/p&gt;
+&lt;p&gt;7.全国大学生英语翻译大赛国家二等奖&lt;/p&gt;
+&lt;p&gt;8.国家级大创负责人-“湘心助农-基于AIoT的丝路农业技术平台”&lt;/p&gt;
+&lt;p&gt;9.校级奖项数余&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Jiuding Chen&#39;s Channel!</title>
+      <link>https://example.com/post/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/about/</guid>
+      <description>&lt;p&gt;Chen Jiuding, from Hunan ChenZhou city, a probationary member of the Communist Party of China, is a junior undergraduate majoring in Information Management and Information Systems (Experimental Class for Outstanding Talents in Data Science and Business Analysis) at the Business School of Central South University. He serves as the vice monitor and is a student of Chen Xiaohong, academician and secretary of the Party Committee of Hunan Gongshang University and honorary dean of the Business School of Central South University. He is committed to statistical analysis, machine learning, econometrics and other fields. His weighted average score is 92.5, professional ranking: 3/30, and his comprehensive test score of 96.02 in the 2022-2023 academic year (sophomore year) ranks first in his major.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;陈九鼎&lt;/strong&gt;，湖南郴州人，中共预备党员，中南大学商学院信息管理与信息系统专业（数据科学与商业分析卓越人才培养实验班）在读大三本科生。担任副班长，师从湖南工商大学党委书记、中南大学商学院名誉院长陈晓红院士，致力于统计分析、机器学习、计量经济等领域。加权均分：&lt;strong&gt;92.5/100&lt;/strong&gt;，专业排名：&lt;strong&gt;3/30&lt;/strong&gt;，2022-2023学年（大二学年）综测&lt;strong&gt;96.02&lt;/strong&gt;分，位列&lt;strong&gt;专业第一&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;：chenjd999@163.com&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;：nine99ddd&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Office&lt;/strong&gt;：中南大学新校区商学院江湾楼&lt;/p&gt;
+&lt;h2 id=&#34;selected-honors&#34;&gt;Selected Honors&lt;/h2&gt;
+&lt;p&gt;1.2022-2023学年&lt;strong&gt;国家奖学金&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2.2022-2023学年中南大学校级&lt;strong&gt;一等奖&lt;/strong&gt;学金&lt;/p&gt;
+&lt;p&gt;3.2021-2022学年中南大学校级三等奖学金&lt;/p&gt;
+&lt;p&gt;4.2022-2023学年中南大学优秀学生&lt;/p&gt;
+&lt;p&gt;5.2022-2023学年中南大学优秀团员&lt;/p&gt;
+&lt;p&gt;6.2021年军训先进个人&lt;/p&gt;
+&lt;h2 id=&#34;selected-awards&#34;&gt;Selected Awards&lt;/h2&gt;
+&lt;p&gt;1.全国大学生数学建模竞赛湖南赛区一等奖&lt;/p&gt;
+&lt;p&gt;2.APMCM亚太地区大学生数学建模竞赛国家一等奖&lt;/p&gt;
+&lt;p&gt;3.美国大学生数学建模大赛H奖&lt;/p&gt;
+&lt;p&gt;4.全国大学生商务谈判大赛国家二等奖&lt;/p&gt;
+&lt;p&gt;5.全国大学生商务谈判大赛最佳谈判手&lt;/p&gt;
+&lt;p&gt;6.全国大学生数学竞赛湖南赛区三等奖&lt;/p&gt;
+&lt;p&gt;7.全国大学生英语翻译大赛国家二等奖&lt;/p&gt;
+&lt;p&gt;8.国家级大创负责人-“湘心助农-基于AIoT的丝路农业技术平台”&lt;/p&gt;
+&lt;p&gt;9.校级奖项数余&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Development analysis of NEV in China based on ARIMA model and Gray Scale Prediction&lt;/strong&gt;：定量分析影响中国新能源汽车发展的因素、ARIMA模型-国内新能源汽车销量预测、分析国内新能源政策影响情况、比对国内外政策等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;基于时间序列预测的蔬菜类商品定价和补货决策&lt;/strong&gt;：基于大量商超真实数据利用相关预测统计方法进行预测定价与补货、制定策略、为商超提供建议等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“湘心助农”-基于AIoT的丝路农业技术平台&lt;/strong&gt;：完整的创业计划、含技术成果(图像识别、智能分析等)，市场行业分析，生产与运营等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;基于中部地区城市综合评价的空气质量聚类分析与主成分分析&lt;/strong&gt;：建立城市综合评价体系、应用数种聚类方法与主成分分析空气质量、并使用贝叶斯判别等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analysis of future development of Olympic Games based on evaluation and prediction of AHP+CRITIC&lt;/strong&gt;：应用AHP+CRITIC模型构建影响奥运会发展的指标体系、并针对奖牌数进行预测等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数字经济驱动绿色发展文献综述&lt;/strong&gt;：对数字经济驱动绿色发展、全要素生产等的模式进行了综述。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research on Mining Hot Topics of NEV Weibo Public Opinion Based on Visualization and LDA Topic Model&lt;/strong&gt;：基于LDA模型的新能源汽车微博舆论热点挖掘、情感分析等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;基于相关性分析与分类模型的玻璃文物成分的研究&lt;/strong&gt;：对真实玻璃文物数据进行相关性分析与建立随机森林等机器学习模型进行分类等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;volunteer-work&#34;&gt;Volunteer Work&lt;/h2&gt;
+&lt;p&gt;Wait&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;sports-time&#34;&gt;Sports Time&lt;/h2&gt;
+&lt;p&gt;Wait&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;leisure-time&#34;&gt;Leisure Time&lt;/h2&gt;
+&lt;p&gt;Wait&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;for-more-info&#34;&gt;For more info&lt;/h2&gt;
+&lt;p&gt;Wait&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
